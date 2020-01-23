@@ -22,7 +22,7 @@ Features
  - Offline signing (compatible to Parity signing flow)
  - Testnets with direct link to faucets (on görli and ropsten even auto-fill of address)
  - JSON UTC key import/export
- - display value in fiat like EUR, NZD, USD, .. or MakerDAO DAI
+ - display value in fiat like BRL, EUR, NZD, USD, .. or MakerDAO DAI
  - display function calls
  - TREZOR (https://trezor.io) Support via USB-OTG - model 1 and model T are supported
  - watch only accounts
