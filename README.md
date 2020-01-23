@@ -3,7 +3,7 @@
 [![on Google Play](https://ligi.de/img/play_badge.png)]()
 [![on FDroid](https://ligi.de/img/fdroid_badge.png)]()
 
- Download:[Last Public Test Ver:] (cmbusinesstoken.com/public/repo/cmbt-012.apk)
+ Download: *[Last Public Test Ver:] (cmbusinesstoken.com/public/repo/cmbt-012.apk)
 
 CMB Wallet
 =======
